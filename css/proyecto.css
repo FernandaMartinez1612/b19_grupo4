@@ -1,0 +1,55 @@
+.iconoUsuario {
+  background: url(../imagenes/usuarios2.png) no-repeat center center;
+}
+.login {
+  margin-top: 170px;
+}
+.titulo {
+  text-align: center;
+  width: 100%;
+  font-size: 18px;
+  padding-top: 20px;
+  /*  border-style: solid;
+   border-color: aqua;
+  border-width: 2px;*/
+}
+body {
+  background-color: #f9f3f2;
+}
+
+.titulousuario{
+ position: absolute;
+ right: 60px;
+ top: 25px;
+ font-size: 14px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fuentes{
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+ }
+
+
+.imagen{
+  position: absolute;
+  left: 7px;
+  top: 15px;
+ 
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+}
