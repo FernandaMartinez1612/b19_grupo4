@@ -27,7 +27,7 @@
         <form id="ff" method="post"
           onsubmit="return submitForm();" >
             <div style="margin-bottom:20px">
-                <input class="easyui-textbox" value='fer' name="txtusuario" style="width:100%" data-options="label:'Usuario:',required:true">
+                <input class="easyui-textbox" value='dario' name="txtusuario" style="width:100%" data-options="label:'Usuario:',required:true">
             </div>
             <div style="margin-bottom:20px">
                 <input  class="easyui-passwordbox"  value='1234'  iconWidth="28"  name="txtpassword" style="width:100%" data-options="label:'Password:',required:true,validType:'password'">
